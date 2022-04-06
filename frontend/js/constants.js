@@ -1,4 +1,4 @@
-const contractAddress = "0x611Ba68cFee40D2bED5119A2ccBF69407158b49C"; //Replace with your own contract address
+const contractAddress = "0xC5CF45FF45A0a0d0964d089443Ed8Ae8bA90487c"; //Replace with your own contract address
 const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to SpacetryNFT!!";
