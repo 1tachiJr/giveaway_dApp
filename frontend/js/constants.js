@@ -1,5 +1,5 @@
-const contractAddress = "0x35Df07A9125B97D163afA87EFc39BB1D5cF9ba48"; //Replace with your own contract address
-const chain = 'polygon'; // rinkeby or polygon
+const contractAddress = "0x611Ba68cFee40D2bED5119A2ccBF69407158b49C"; //Replace with your own contract address
+const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to SpacetryNFT!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
